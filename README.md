@@ -22,6 +22,12 @@ A curated list of tools, libraries, and resources for Indonesian developers.
 
 - [nik-parser.rb](https://github.com/gizipp/nik-parser.rb) - Indonesian phone number validation (08xx, +62)
 
+## Currency & Finance
+
+- [rupiah](https://github.com/gizipp/rupiah) - Indonesian Rupiah toolkit. Format, parse, terbilang. AI-agent ready with MCP (JavaScript/TypeScript)
+- [angka-rupiah-js](https://github.com/develoka/angka-rupiah-js) - Format angka ke Rupiah (JavaScript)
+- [terbilang](https://github.com/riskihajar/terbilang) - Convert number to Indonesian words (PHP)
+
 ## Payment Gateway
 
 - [veritrans-ruby](https://github.com/veritrans/veritrans-ruby) - Midtrans payment gateway client (Ruby)
